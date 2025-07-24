@@ -5,59 +5,30 @@
     A Gemini AI-inspired web app built with JavaScript, React, Tailwind CSS, and NPM. It features a sleek UI and interactive AI chat experience, replicating the look and feel of Google's Gemini interface.
   </p>
   
-
-<!-- Table of Contents -->
-# :notebook_with_decorative_cover: Table of Contents
-
-- [About the Project](#star2-about-the-project)
-  * [Screenshots](#camera-screenshots)
-  * [Tech Stack](#space_invader-tech-stack)
-  * [Features](#dart-features)
-  * [Environment Variables](#key-environment-variables)
-- [Getting Started](#toolbox-getting-started)
-  * [Prerequisites](#bangbang-prerequisites)
-  * [Installation](#gear-installation)
-- [Usage](#eyes-usage)
-- [Roadmap](#compass-roadmap)
-- [Contributing](#wave-contributing)
-  * [Code of Conduct](#scroll-code-of-conduct)
-- [FAQ](#grey_question-faq)
-- [Contact](#handshake-contact)
-- [Acknowledgements](#gem-acknowledgements)
-
-  
 <!-- About the Project -->
 ## :star2: About the Project
 
 
 <!-- Screenshots -->
 ### :camera: Screenshots
+</div>
 
 <div align="center"> 
-  <img src"/src/assets/gemini-clone-photo.png" alt="screenshot" />
+  <img src="src/assets/gemini-clone-photo.png" alt="screenshot" />
 </div>
 
 
 <!-- TechStack -->
 ### :space_invader: Tech Stack
 
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
-    <li><a href="https://nextjs.org/">Next.js</a></li>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-    <li><a href="https://vite.dev/">Vite</a></li>
-    <li><a href="https://tailwindcss.com/">TailwindCSS</a></li>
-  </ul>
-</details>
+<a href="https://www.typescriptlang.org/">Typescript</a>
+<a href="https://nextjs.org/">Next.js</a>
+<a href="https://reactjs.org/">React.js</a>
+<a href="https://vite.dev/">Vite</a>
+<a href="https://tailwindcss.com/">TailwindCSS</a>
 
-<details>
-  <summary>API</summary>
-  <ul>
-    <li><a href="https://ai.google.dev/">Gemini API for devs</a></li>
-  </ul>
-</details>
+API
+<a href="https://ai.google.dev/">Gemini API for devs</a>
 
 <!-- Features -->
 ### :dart: Features
@@ -80,10 +51,6 @@ To run this project, you will need to add the following environment variables to
 ### :bangbang: Prerequisites
 
 Make sure you have **Node.js** and **npm** installed on your machine.
-
-```bash
- npm install --global yarn
-```
 
 <!-- Run Locally -->
 ### :running: Run Locally 
