@@ -17,14 +17,6 @@
 - [Getting Started](#toolbox-getting-started)
   * [Prerequisites](#bangbang-prerequisites)
   * [Installation](#gear-installation)
-- [Usage](#eyes-usage)
-- [Roadmap](#compass-roadmap)
-- [Contributing](#wave-contributing)
-  * [Code of Conduct](#scroll-code-of-conduct)
-- [FAQ](#grey_question-faq)
-- [Contact](#handshake-contact)
-- [Acknowledgements](#gem-acknowledgements)
-
   
 <!-- About the Project -->
 ## :star2: About the Project
@@ -34,7 +26,7 @@
 ### :camera: Screenshots
 
 <div align="center"> 
-  <img src"/src/assets/gemini-clone-photo.png" alt="screenshot" />
+  <img src"src/assets/gemini-clone-photo.png" alt="screenshot" />
 </div>
 
 
