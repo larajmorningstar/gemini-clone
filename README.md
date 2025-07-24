@@ -15,6 +15,7 @@
 
 <div align="center"> 
   <img src="src/assets/gemini-clone-photo.png" alt="screenshot" />
+  <img src="src/assets/gemini-demo-photo.png" alt="screenshot" />
 </div>
 
 
