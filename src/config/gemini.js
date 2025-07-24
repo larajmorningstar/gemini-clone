@@ -1,6 +1,9 @@
 import { GoogleGenAI } from "@google/genai";
 
-const ai = new GoogleGenAI({ apiKey: API_KEY });
+import dotenv from "dotenv";
+dotenv.config();
+
+const ai = new GoogleGenAI({ apiKey: process.env.API_KEY });
 
 async function runChat(prompt) {
   const response = await ai.models.generateContent({
