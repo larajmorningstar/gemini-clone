@@ -8,7 +8,6 @@
 <!-- About the Project -->
 ## :star2: About the Project
 
-
 <!-- Screenshots -->
 ### :camera: Screenshots
 </div>
@@ -17,7 +16,6 @@
   <img src="src/assets/gemini-clone-photo.png" alt="screenshot" />
   <img src="src/assets/gemini-demo-photo.png" alt="screenshot" />
 </div>
-
 
 <!-- TechStack -->
 ### :space_invader: Tech Stack
