@@ -1,9 +1,11 @@
+<!-- Title -->
 <div align="center">
   <h1>Gemini AI Clone</h1>
 
   <p>
     A Gemini AI-inspired web app built with JavaScript, React, Tailwind CSS, and NPM. It features a sleek UI and interactive AI chat experience, replicating the look and feel of Google's Gemini interface.
   </p>
+  
 <!-- About the Project -->
 ## :star2: About the Project
 
